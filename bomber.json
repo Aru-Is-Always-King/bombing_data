@@ -7,5 +7,6 @@
   "fastBomb":"enabled",
   "dailyLimit":"disabled",
   "dailyLimiAmount": 1000,
-  "fileDownloadUrl":"dUrl"
+  "fileDownloadUrl":"dUrl",
+  "message":"hello world"
 }
