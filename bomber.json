@@ -1,0 +1,11 @@
+{
+  "status":"active",
+  "version":"2.1.8",
+  "url":"url",
+  "loginRequried": "False",
+  "smsLimit":"1000",
+  "fastBomb":"enabled",
+  "dailyLimit":"disabled",
+  "dailyLimiAmount": 1000,
+  "fileDownloadUrl":"dUrl"
+}
