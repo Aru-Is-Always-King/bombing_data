@@ -1,7 +1,7 @@
 {
   "status":"active",
   "version":"2.1.8",
-  "url":"url",
+  "url":"https://aru-bomber-api.vercel.app",
   "loginRequried": "False",
   "smsLimit":"1000",
   "fastBomb":"enabled",
