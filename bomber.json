@@ -7,6 +7,6 @@
   "fastBomb":"enabled",
   "dailyLimit":"disabled",
   "dailyLimiAmount": 1000,
-  "fileDownloadUrl":"dUrl",
+  "fileDownloadUrl":"https://github.com/SMS-BOMBER-Git/source/raw/main/x.zip",
   "message":"hello world"
 }
