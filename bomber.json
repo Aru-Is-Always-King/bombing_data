@@ -4,7 +4,7 @@
   "url":"https://aru-bomber-api.vercel.app",
   "loginRequried": "False",
   "smsLimit":"1000",
-  "fastBomb":"disabled",
+  "fastBomb":"enabled",
   "dailyLimit":"disabled",
   "dailyLimiAmount": 1000,
   "fileDownloadUrl":"https://github.com/SMS-BOMBER-Git/source/raw/main/x.zip",
